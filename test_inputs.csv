@@ -1,0 +1,25 @@
+﻿Category,Criteria,Criteria number,Species,Pressure,Score
+Likelihood,Overlap of occurrence and vessel lanes,A,SRW,collision (below water),medium
+Likelihood,Swim depth overlap with hull depth,B,SRW,collision (below water),high
+Likelihood,Behaviour toward vessels,C,SRW,collision (below water),high
+Consequence,Highly localised or concentrated population,D,SRW,collision (below water),high
+Consequence,Impact on individual,E,SRW,collision (below water),high
+Consequence,Low replacement capacity,F,SRW,collision (below water),medium
+Consequence,Conservation status,G,SRW,collision (below water),high
+Consequence,Victorian population size,H,SRW,collision (below water),low
+Likelihood,Overlap of occurrence and planned turbines,A,shearwater,collision (above water),high
+Likelihood,Flight height overlaps with rotor swept zone,B,shearwater,collision (above water),high
+Likelihood,Behaviour toward turbines,C,shearwater,collision (above water),high
+Consequence,Highly localised or concentrated population,D,shearwater,collision (above water),low
+Consequence,Impact on individual,E,shearwater,collision (above water),high
+Consequence,Low replacement capacity,F,shearwater,collision (above water),low
+Consequence,Conservation status,G,shearwater,collision (above water),low
+Consequence,Victorian population size,H,shearwater,collision (above water),low
+Likelihood,Overlap of occurrence and license area buffer,A,SRW,operational noise,high
+Likelihood,Hearing sensitivity within max noise range,B,SRW,operational noise,high
+Likelihood,Avoidance behaviour,C,SRW,operational noise,medium
+Consequence,Highly localised or concentrated population,D,SRW,operational noise,high
+Consequence,Impact on individual,E,SRW,operational noise,low
+Consequence,Low replacement capacity,F,SRW,operational noise,high
+Consequence,Conservation status,G,SRW,operational noise,high
+Consequence,Victorian population size,H,SRW,operational noise,high
